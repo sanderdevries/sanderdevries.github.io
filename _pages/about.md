@@ -13,7 +13,7 @@ I am a PhD candidate in applied microeconomics at the Free University Amsterdam.
 </p>
 
 <p align="justify">
-In my research I use causal inference techniques with administrative data to improve our understanding of the determinants of children's human capital.
+I use causal inference techniques and administrative data to improve our understanding of the determinants of children's human capital.
 </p>
 
 ## Upcoming workshops and conferences
