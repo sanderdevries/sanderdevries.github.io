@@ -5,18 +5,19 @@ author_profile: true
 ---
 
 <p align="justify">  
-My teaching interests primarily lie in the field of econometrics, which involves applying statistical methods to economic data. I believe in using a practical approach to teaching, where students simulate data sets with known data generating processes. This helps students understand how different methods of analysis yield different estimates, and develops their intuition about the subject.
+  
 </p>
+
+## Free University Amsterdam
+
+- Microeconomics 1 (undergraduate, 2023)
+- Microeconomics 2 (undergraduate, 2023)
+
+## Amsterdam University College
+
+- Econometrics (undergraduate, 2023)
+
 
 ## Tinbergen Institute
 
-- Econometrics II - [GitHub](https://github.com/stnavdeev/econometrics) (graduate)
-
-## University of Amsterdam
-
-- Applied Econometrics (undergraduate)
-- Economics (undergraduate)
-
-## Higher School of Economics
-
-- Economics of Education (undergraduate)
+- Behavioral Economics (graduate, 2022)
