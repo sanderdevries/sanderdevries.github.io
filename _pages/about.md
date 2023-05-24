@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 <p align="justify">  
-  
 I am a PhD candidate in applied microeconomics at the Free University Amsterdam. My supervisors are <a href="https://research.vu.nl/en/persons/maarten-lindeboom" style="color: black;">Maarten Lindeboom</a> and <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>. 
-  
-In my research I use causal inference techniques with administrative data to improve our understanding of the determinants of children's human capital.
+</p>
 
+<p align="justify">
+In my research I use causal inference techniques with administrative data to improve our understanding of the determinants of children's human capital.
+</p>
 
 ## Upcoming workshops and conferences
 
