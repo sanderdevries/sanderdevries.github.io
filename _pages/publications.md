@@ -14,5 +14,5 @@ Work in progress
 <p>
 
 <p align="justify"> 
-"Parental Birth Order: Insights on Intergenerational Mobility of Human Capital", (with Nadine Ketel and Maarten Lindeboom). See the preliminary results on my 
+"Parental Birth Order: Insights on Intergenerational Mobility of Human Capital", with Nadine Ketel and Maarten Lindeboom. See the preliminary results on my 
 <a href="https://sanderdevries.github.io/birthOrderPoster.pdf" style="color: black;">poster</a>.
