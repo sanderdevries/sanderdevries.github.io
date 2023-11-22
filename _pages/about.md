@@ -13,10 +13,8 @@ I am a PhD candidate in applied microeconomics at the Vrije Universiteit Amsterd
 </p>
 
 <p align="justify">
-I use causal inference techniques and administrative data to improve our understanding of the determinants of children's human capital.
+I use causal inference techniques and administrative data to improve our understanding of the workings of education policies and the determinants of individuals' human capital. 
 </p>
 
 ## Upcoming workshops and conferences
-
-- <a href="https://www.uni-potsdam.de/de/empwifo/workshop/8th-phd-workshop-2023" style="color: black;">8th PhD Workshop in Empirical Economics 2023 </a>, University of Potsdam, Germany, 4-6 October 2023
 
