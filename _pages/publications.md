@@ -13,7 +13,7 @@ author_profile: true
 # Work in progress
 
 <p align="justify"> 
-Measuring Intergenerational Persistence with Many Variables
+"Measuring Intergenerational Persistence with Many Variables"
 
 <p align="justify"> 
 "Evaluating the Performance of Performance Standards in Higher Education". 
