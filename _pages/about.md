@@ -13,5 +13,5 @@ I am a PhD candidate in applied microeconomics at the Vrije Universiteit Amsterd
 </p>
 
 <p align="justify">
-I am interested in the Economics of Education and Intergenerational Mobility. I typically use large administrative datasets in combination with causal inference or machine learning techniques to answer relevant questions in these areas.
+I am interested in the Economics of Education and Intergenerational Mobility. I typically use large administrative datasets in combination with causal inference or machine learning techniques to answer relevant questions in these areas. For examples, please see my research page. 
 </p>
