@@ -8,14 +8,15 @@ author_profile: true
   
 </p>
 
-## Free University Amsterdam
+## Vrije Universiteit Amsterdam
 
+- Empirical Economics (undergraduate, 2023)
 - Microeconomics 1 (undergraduate, 2023)
 - Microeconomics 2 (undergraduate, 2023)
 
 ## Amsterdam University College
 
-- Econometrics (undergraduate, 2023)
+- Econometrics (undergraduate, 2023-2024)
 
 
 ## Tinbergen Institute
