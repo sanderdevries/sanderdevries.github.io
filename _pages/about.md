@@ -13,8 +13,5 @@ I am a PhD candidate in applied microeconomics at the Vrije Universiteit Amsterd
 </p>
 
 <p align="justify">
-I use causal inference techniques and administrative data to improve our understanding of the workings of education policies and the determinants of individuals' human capital. 
+I typically use administrative data and causal inference or machine learning techniques to improve our understanding of the workings of education policies and the determinants of individuals' human capital. 
 </p>
-
-## Upcoming workshops and conferences
-
