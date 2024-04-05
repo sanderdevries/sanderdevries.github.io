@@ -13,5 +13,5 @@ I am a PhD candidate in applied microeconomics at the Vrije Universiteit Amsterd
 </p>
 
 <p align="justify">
-I typically use administrative data and causal inference or machine learning techniques to improve our understanding of the workings of education policies and the determinants of individuals' human capital. 
+I am interested in the Economics of Education and Intergenerational Mobility. I typically use large administrative datasets in combination with causal inference or machine learning techniques to answer relevant questions in these areas.
 </p>
