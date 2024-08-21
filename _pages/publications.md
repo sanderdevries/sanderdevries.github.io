@@ -13,7 +13,7 @@ author_profile: true
 # Work in progress
 
 <p align="justify"> 
-"Measuring Intergenerational Persistence with Many Variables"
+"Privileged Roots, Flourishing Branches: on the Importance of (Dis)advantaged Parents"
 
 <p align="justify"> 
 "Evaluating the Performance of Performance Standards in Higher Education". 
