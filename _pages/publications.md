@@ -13,7 +13,7 @@ author_profile: true
 
 <p align="justify"> 
 "From Parents’ Cradle to Children’s Career: Intergenerational Effects of Parental Investments", with Nadine Ketel and Maarten Lindeboom.  
-<a href="https://sanderdevries.github.io/birthOrderPoster.pdf" style="color: black;">Working paper</a>.
+<a href="https://t.co/PjTNb2H1qg" style="color: black;">Working paper</a>.
 
 # Work in progress
 
