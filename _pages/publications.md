@@ -9,6 +9,11 @@ author_profile: true
 
 </p>
 
+# Working papers
+
+<p align="justify"> 
+"From Parents’ Cradle to Children’s Career: Intergenerational Effects of Parental Investments", with Nadine Ketel and Maarten Lindeboom.  
+<a href="https://sanderdevries.github.io/birthOrderPoster.pdf" style="color: black;">Working paper</a>.
 
 # Work in progress
 
@@ -18,6 +23,4 @@ author_profile: true
 <p align="justify"> 
 "Evaluating the Performance of Performance Standards in Higher Education". 
 
-<p align="justify"> 
-"Parental Birth Order: Insights on Intergenerational Mobility of Human Capital", with Nadine Ketel and Maarten Lindeboom. See the preliminary results on my 
-<a href="https://sanderdevries.github.io/birthOrderPoster.pdf" style="color: black;">poster</a>.
+
