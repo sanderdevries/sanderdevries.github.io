@@ -18,7 +18,7 @@ author_profile: true
 # Work in progress
 
 <p align="justify"> 
-"Privileged Roots, Flourishing Branches: on the Importance of (Dis)advantaged Parents"
+"Measuring Social Mobility with Detailed Parental Information"
 
 <p align="justify"> 
 "Evaluating the Performance of Performance Standards in Higher Education". 
