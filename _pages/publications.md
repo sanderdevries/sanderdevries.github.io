@@ -9,17 +9,13 @@ author_profile: true
 
 </p>
 
-# Working papers
+# Work in Progress
 
 <p align="justify"> 
 "From Parents’ Cradle to Children’s Career: Intergenerational Effects of Parental Investments", with Nadine Ketel and Maarten Lindeboom.  
 <a href="https://t.co/PjTNb2H1qg" style="color: black;">Working paper</a>.
 
 <p align="justify">  
-
-</p>
-
-# Work in progress
 
 <p align="justify"> 
 "Measuring Social Mobility with Detailed Parental Information"
