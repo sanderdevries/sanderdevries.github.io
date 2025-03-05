@@ -19,7 +19,7 @@ author_profile: true
 
 <p align="justify"> 
 "Measuring Family (Dis)Advantage: Lessons from Detailed Parental Information", solo-authored. 
-<a href="https://papers.tinbergen.nl/25010.pdf style="color: black;">Working paper</a>.
+<a href="https://www.econstor.eu/handle/10419/311734" style="color: black;">Working paper</a>.
   
 
 <p align="justify"> 
