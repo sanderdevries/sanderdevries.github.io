@@ -22,7 +22,7 @@ author_profile: true
 <a href="https://sanderdevries.github.io/intGenML.pdf" style="color: black;">Working paper</a>.
 
 <p align="justify"> 
-"On the Biological Drivers of Intergenerational Mobility: Evidence from Children of Same-Sex Couples", with Erik Plug."
+"On the Biological Drivers of Intergenerational Mobility: Evidence from Children of Same-Sex Couples", with Erik Plug.
 <p align="justify"> 
   
 <p align="justify"> 
