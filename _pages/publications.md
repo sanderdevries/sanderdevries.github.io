@@ -20,6 +20,10 @@ author_profile: true
 <p align="justify"> 
 "Measuring Family (Dis)Advantage: Lessons from Detailed Parental Information", solo-authored. 
 <a href="https://sanderdevries.github.io/intGenML.pdf" style="color: black;">Working paper</a>.
+This research has been featured in <a href="https://www.volkskrant.nl/economie/vu-econoom-kansenongelijkheid-in-nederland-groter-dan-in-veel-andere-westerse-landen~b8b9f614/" style="color: black;">De Volkskrant</a>.
+
+  
+  
 
 <p align="justify"> 
 "On the Biological Drivers of Intergenerational Mobility: Evidence from Children of Same-Sex Couples", with Erik Plug.
