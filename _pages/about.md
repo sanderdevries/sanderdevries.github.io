@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-I am a PhD candidate in applied microeconomics at the Vrije Universiteit Amsterdam. My supervisors are <a href="https://research.vu.nl/en/persons/maarten-lindeboom" style="color: black;">Maarten Lindeboom</a> and <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>. In January and February 2025, I was visiting the Center of Economic Performance (CEP) at the London School of Economics.  
+I am a PhD candidate in applied microeconomics at the Vrije Universiteit Amsterdam. My supervisors are <a href="https://research.vu.nl/en/persons/maarten-lindeboom" style="color: black;">Maarten Lindeboom</a> and <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>. In January and February 2025, I visited the Center of Economic Performance (CEP) at the London School of Economics.  
 </p>
 
 <p align="justify">
