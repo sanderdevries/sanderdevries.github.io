@@ -12,7 +12,7 @@ author_profile: true
 # Work in Progress
 
 <p align="justify"> 
-"From Parents’ Cradle to Children’s Career: Intergenerational Effects of Parental Investments", with Nadine Ketel and Maarten Lindeboom.  
+"From Parents’ Cradle to Children’s Career: Intergenerational Effects and Complementarities of Childhood Advantage", with Nadine Ketel and Maarten Lindeboom.  
 <a href="https://sanderdevries.github.io/intergenerationalBirthOrder.pdf" style="color: black;">Working paper</a>.
 <p align="justify">  
 
