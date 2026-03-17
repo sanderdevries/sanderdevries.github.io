@@ -26,8 +26,5 @@ This research has been featured in <a href="https://www.volkskrant.nl/economie/v
 <p align="justify"> 
 "Performance Standards in Higher Education", solo-authored.
 
-<p align="justify"> 
-"Mother Nature, Mother Nurture: on the Biological Determinants of Intergenerational Persistence", with Erik Plug.
-
 
 
