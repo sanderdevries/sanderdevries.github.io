@@ -24,7 +24,7 @@ This research has been featured in <a href="https://www.volkskrant.nl/economie/v
   
   
 <p align="justify"> 
-"Shape Up or Ship Out? Causal Effects of Performance Standards in Higher Education", solo-authored. <a href="https://sanderdevries.github.io/bsaPaper (53).pdf" style="color: black;">Most recent version.</a>.
+"Shape Up or Ship Out? Causal Effects of Performance Standards in Higher Education", solo-authored. <a href="https://sanderdevries.github.io/bsaPaper (53).pdf" style="color: black;">Most recent version</a>.
 <p align="justify">  
 
 
