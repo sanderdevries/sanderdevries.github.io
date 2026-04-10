@@ -25,7 +25,7 @@ This research has been featured in <a href="https://www.volkskrant.nl/economie/v
   
 <p align="justify"> 
 "Shape Up or Ship Out? Causal Effects of Performance Standards in Higher Education", solo-authored. <a href="https://sanderdevries.github.io/bsaPaper (53).pdf" style="color: black;">Most recent version</a>.
-<p align="justify">  
+<p align="justify">  This research has been featured in <a href="https://www.nrc.nl/nieuws/2026/03/30/bindend-studieadvies-werkt-averechts-blijkt-uit-grootste-onderzoek-tot-dusver-a4924271?gift_token=4924271~1775466032W8dObOo6lACVCCLpa3RRZ6YOseOm57sqCXyFmMMCLqE" style="color: black;">NRC</a>, <a href="https://www.telegraaf.nl/binnenland/onderzoeker-succes-universitaire-studenten-daalt-door-bindend-studieadvies/144784234.html" style="color: black;">De Telegraaf</a>. For a Dutch report, see <a href="https://esb.nu/bindend-studieadvies-zorgt-niet-voor-studiesucces/" style="color: black;">ESB </a>. I also explained this research (in Dutch) on the radio at <a href="https://dashboard.test.rtvmonitor.nl/summary/fd54e93597544314a7d5a39795c1d130" style="color: black;">NOS, Radio 1</a> and <a href="https://www.instagram.com/reel/DWhAbUfgnsc/?igsh=YzAyMDM1MGJkZA%3D%3D" style="color: black;">NOS Stories.</a>
 
 
 
