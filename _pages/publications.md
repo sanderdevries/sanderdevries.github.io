@@ -13,8 +13,8 @@ author_profile: true
 
 <p align="justify"> 
 "From Parents’ Cradle to Children’s Career: Intergenerational Effects and Complementarities of Childhood Advantage", with Nadine Ketel and Maarten Lindeboom.  
-<a href="https://sanderdevries.github.io/intergenerationalBirthOrder.pdf" style="color: black;">Most recent version</a>.
-<p align="justify">  
+<a href="https://sanderdevries.github.io/intergenerationalBirthOrder.pdf" style="color: black;">Most recent version</a>. 
+<p align="justify">  <b> R&R at the Journal of Labor Economics. </b>
 
 
 <p align="justify"> 
