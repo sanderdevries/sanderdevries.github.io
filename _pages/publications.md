@@ -7,41 +7,31 @@ author_profile: true
 <style>
 .research-list { margin-top: 0.5em; }
 
-.paper { margin: 0 0 2.4em 0; }
+.paper { margin: 0 0 2.8em 0; }
+.paper:last-child { margin-bottom: 0; }
 
 .paper-title {
   font-weight: 700;
+  font-style: italic;
   font-size: 1.05em;
   line-height: 1.45;
 }
 
-.paper-meta {
+.paper-authors {
   margin-top: 0.3em;
   color: #555;
   font-size: 0.95em;
   line-height: 1.5;
 }
-.paper-meta a { color: #555; text-decoration: underline; }
+.paper-authors a { color: #555; text-decoration: underline; }
 
-.badge {
-  display: inline-block;
-  padding: 0.05em 0.55em;
-  margin-left: 0.15em;
-  border: 1px solid #b03a2e;
-  color: #b03a2e;
-  border-radius: 4px;
-  font-size: 0.78em;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  white-space: nowrap;
+.paper-status {
+  margin-top: 0.3em;
+  font-size: 0.95em;
+  font-weight: 700;
 }
-.badge.forthcoming { border-color: #1f6f8b; color: #1f6f8b; }   /* use for Forthcoming / Accepted */
-.badge.review      { border-color: #6c6c6c; color: #6c6c6c; }   /* use for Under review */
 
-.paper-links { margin-top: 0.45em; font-size: 0.95em; }
-.paper-links a { margin-right: 1.1em; }
-
-.paper details { margin-top: 0.5em; }
+.paper details { margin-top: 0.6em; }
 .paper summary {
   cursor: pointer;
   font-size: 0.93em;
@@ -63,7 +53,7 @@ author_profile: true
 }
 
 .paper .media {
-  margin-top: 0.55em;
+  margin-top: 0.6em;
   font-size: 0.88em;
   color: #666;
   line-height: 1.55;
@@ -71,20 +61,21 @@ author_profile: true
 .paper .media a { color: #666; text-decoration: underline; }
 </style>
 
+My research studies intergenerational mobility, family background, and the economics of education using Dutch administrative data.
+<!-- Optional one-line description above — edit or delete. -->
+
 ## Working Papers
 
 <div class="research-list">
 
 <div class="paper">
   <div class="paper-title">From Parents’ Cradle to Children’s Career: Intergenerational Effects and Complementarities of Childhood Advantage</div>
-  <div class="paper-meta">
-    with <b>Nadine Ketel</b> and <b>Maarten Lindeboom</b>
+  <div class="paper-authors">
+    with Nadine Ketel and Maarten Lindeboom
     <!-- To link coauthor pages: wrap a name like <a href="URL">Nadine Ketel</a> -->
-    &nbsp;·&nbsp;<span class="badge">R&amp;R · Journal of Labor Economics</span>
+    &nbsp;·&nbsp;<a href="https://sanderdevries.github.io/intergenerationalBirthOrder.pdf">Latest version (PDF)</a>
   </div>
-  <div class="paper-links">
-    <a href="https://sanderdevries.github.io/intergenerationalBirthOrder.pdf">Latest version (PDF)</a>
-  </div>
+  <div class="paper-status">R&amp;R, Journal of Labor Economics</div>
   <details>
     <summary>Abstract</summary>
     <p>[Paste the abstract here.]</p>
@@ -92,10 +83,10 @@ author_profile: true
 </div>
 
 <div class="paper">
-  <div class="paper-title">Who Gets Ahead? Measuring Income Gaps across Family Backgrounds and Neighborhoods</div>
-  <div class="paper-meta">solo-authored</div>
-  <div class="paper-links">
-    <a href="https://sanderdevries.github.io/intGenML_17Dec.pdf">Latest version (PDF)</a>
+  <div class="paper-title">Who Gets Ahead? Measuring Income Gaps across Family Backgrounds</div>
+  <div class="paper-authors">
+    solo-authored
+    &nbsp;·&nbsp;<a href="https://sanderdevries.github.io/intGenML_17Dec.pdf">Latest version (PDF)</a>
   </div>
   <details>
     <summary>Abstract</summary>
@@ -117,9 +108,9 @@ author_profile: true
 
 <div class="paper">
   <div class="paper-title">Shape Up or Ship Out? Causal Effects of Performance Standards in Higher Education</div>
-  <div class="paper-meta">solo-authored</div>
-  <div class="paper-links">
-    <a href="https://sanderdevries.github.io/bsaPaper%20(53).pdf">Latest version (PDF)</a>
+  <div class="paper-authors">
+    solo-authored
+    &nbsp;·&nbsp;<a href="https://sanderdevries.github.io/bsaPaper%20(53).pdf">Latest version (PDF)</a>
     <!-- FIX: rename this file in your repo (no spaces/parentheses), e.g. performanceStandards.pdf, then update the link. -->
   </div>
   <details>
