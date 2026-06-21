@@ -4,9 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-My research studies intergenerational mobility, family background, and the economics of education using Dutch administrative data.
-<!-- Optional one-line description above — edit or delete. -->
-
 ## Working Papers
 
 <div style="margin:0 0 2.6em 0;">
