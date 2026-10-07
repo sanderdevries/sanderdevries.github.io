@@ -14,4 +14,4 @@ I obtained my PhD in Economics from the Vrije Universiteit Amsterdam in April 20
 
 I am now a **Postdoctoral Research Fellow** at the [University of Technology Sydney](https://www.uts.edu.au/), where I work with Peter Siminski, Nathan Deutscher, Roger Wilkins, and Bashkar Mazumder on the ARC Discovery Project *Inequality and Intergenerational Mobility: Measuring What Matters and Why*. I am also a Fellow of the [Tax and Transfer Policy Institute](https://crawford.anu.edu.au/ttpi) at the Australian National University.
 
-See my [research page](/research/)](https://sanderdevries.github.io/research/) for all my research and media coverage.
+See my [research page](https://sanderdevries.github.io/research/) for all my research and media coverage.
